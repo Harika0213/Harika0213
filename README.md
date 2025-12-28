@@ -11,7 +11,7 @@ I am a motivated and results-driven individual currently pursuing a Data Analyti
 | Category | Skills |
 | :--- | :--- |
 | **Data Analysis & ETL** | Excel, Power Query, Data Cleaning, Data Visualization |
-| **Programming & Database** | SQL (in-progress), Python (learning NumPy, Pandas), HTML, CSS |
+| **Programming & Database** | SQL, Python (NumPy, Pandas, Matplotlib, Seaborn), HTML, CSS |
 | **Tools & Platforms** | Git/GitHub, Microsoft Office Suite |
 
 ---
